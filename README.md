@@ -2,7 +2,9 @@
 
 _Programvareutvikler og løsningsarkitekt bosatt i Oslo_
 
-**Master i Informatikk, 2005, Universitetet i Oslo** <br>
+_Mer enn 17 års erfaring med utvikling. Mer enn 10 års erfaring med personalledelse og rekruttering._
+
+_Master i Informatikk i 2005, Universitetet i Oslo_ <br>
 
 ## Overordnet erfaring
  - **2007-Nå: Knowit Objectnet**, Seniorkonsulent, Gruppeleder, Ledende fagrekrutterer
