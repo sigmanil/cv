@@ -42,7 +42,7 @@ KF leverte en produktportefølje av IT-løsninger som blant annet omfattet syste
 
 Sigmund fungerte som tech-lead, teamleder, løsningsarkitekt og tidvis prosjektleder for utvikling av ca 15 forskjellige produkter fra idéskisse til ferdig løsning, samt videreutvikling og teknisk support på disse. Han drev utvikling på front- og backend, planla og gjennomførte produktutviklingsprosjekter, gjorde opplæring og oppfølging av team, og bidro med oppfølging av timeproduksjon opp mot estimater og andre mål. Stort fokus på Minimum Viable Product, rask leveringstid og lave utviklingskostnader. Sigmund var også hovedansvarlig for onboarding og opplæring av mer enn 20 utviklere på teamet i løpet av perioden, flertallet av dem nyutdannede. Han utviklet onboardingsrutiner som gjorde at de aller fleste utviklere leverte produksjonsklar kode i løpet av første uka i prosjektet.
 
-## Kurs og presentasjoner jeg har holdt
+## Kurs og presentasjoner _holdt_
  - 2023: **Backend-teknologier i Booking**, Presentasjon av teknologivalg og lærdommer fra valgene i Oslo Kommunes Bookingsystem. Holdt i Origo.
  - 2022: **Quick&dirty statistikkdashboards i regneark**, Lyntale om hvordan man kan bruke excel eller google sheets for å lage enkle automatiske uttrekk og presentasjoner av data fra applikasjoner. Holdt i Knowit og i Origo.
  - 2022: **Sigmunds Sassy Seminar for CV-styrking**, Workshop på å forbedre konsulentenes CVer. Holdt på Knowit sitt fagseminar.
@@ -59,7 +59,7 @@ Sigmund fungerte som tech-lead, teamleder, løsningsarkitekt og tidvis prosjektl
  - 2014: **Fem år med Scala i produksjon**, 1 time presentasjon av erfaringene med Scala i produksjon, basert på prosjektene hos Kommuneforlaget. Foredraget ble holdt på JavaZone.
  - 2013: **The Objectnet Way**, Foredrag om selskapskulturen i Objectnet og hva andre Knowit-selskaper kunne lære av den. Holdt på KDS (Knowit Developer Summit), en stor internkonferanse i Knowit-konsernet. Holdt sammen med Tobias Torrisen.
 
-## Kurs og sertifiseringer jeg har tatt
+## Kurs og sertifiseringer _tatt_
  - 2023: **Hvordan lede Unge**, Yong
  - 2023: **Anticorruption**, Knowit
  - 2022: **Sertifisering i Likestilling og Mangfold**, Knowit
