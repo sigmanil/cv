@@ -24,7 +24,7 @@ _Master i Informatikk i 2005, Universitetet i Oslo_ <br>
  - **Databaser:** PostgreSQL, Aurora, Derby, SQL-Server
  - **Diverse devops-relatert:** Div AWS, Docker, Github Actions, Jenkins, Openshift, Grafana, Kibana
  
-...og har vært borti ekstremt mye annet. Spør. 😁
+...og har vært borti ekstremt mye annet. Spør gjerne! 😁
 
 ## To utvalgte prosjekter
 
