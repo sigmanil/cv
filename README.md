@@ -24,9 +24,9 @@ _Programvareutvikler og løsningsarkitekt bosatt i Oslo_
  
 ...og har vært borti ekstremt mye annet. Spør. 😁
 
-## Utvalgte prosjekter
+## To utvalgte prosjekter
 
-### Oslo Kommune Origo: Booking
+### Oslo Kommune Origo: Booking, 2020-2023
 Sigmund var en av de 3 utviklerene på teamet som startet utvikling av Oslo Origo sin Bookingløsning, og var sentral i arbeidet med løsningen frem til senhøstes 2023.
 
 Bookingsystemet er et produkt som lar innbyggere søke om lån eller leie av kommunale lokaler som for eksempel gymsaler og møterom, samt enkelte bookbare tjenester som for eksempel vielser i rådhuset. Hovedmålet med applikasjonen er å forbedre tilgangen på lokaler for frivilligheten, og å redusere arbeidsmengden for de i kommunen som driver med utlån og utleie. Utvikling startet våren 2020, og første versjon gikk i produksjon etter 3 måneder utvikling. 
@@ -37,7 +37,10 @@ Sigmund bidro med utvikling og rådgivning i alle deler av løsningsutviklingen 
 
 Sigmund var også Security Champion på teamet i en periode. Denne rollen innebar å sørge for at sikkerhet ble vektlagt i alle deler av utviklingsløpet. Han jobbet blant annet med å innføre tiltak mot supplychain-sårbarheter i bygg-pipelinen.
 
+### KF / Kommuneforlaget - Diverse produkter, 2011-2020
+KF leverte en produktportefølje av IT-løsninger som blant annet omfattet systemer for styring, saksbehandling og kvalitetssikring. Knowit var en sentral leverandør av løsninger til KF, og leverte bl.a. løsning for brukerhåndtering og sentralisert pålogging, behandlingssystem for avvik, portalløsning, tjenestekatalog samt presentasjonsløsning for årshjul. Knowit bisto også KF med rådgivning i forhold til forskjellige behov som f.eks. datavarehus, single-sign-on, leverandørevaluering, mv.
 
+Sigmund fungerte som tech-lead, teamleder, løsningsarkitekt og tidvis prosjektleder for utvikling av ca 15 forskjellige produkter fra idéskisse til ferdig løsning, samt videreutvikling og teknisk support på disse. Han drev utvikling på front- og backend, planla og gjennomførte produktutviklingsprosjekter, gjorde opplæring og oppfølging av team, og bidro med oppfølging av timeproduksjon opp mot estimater og andre mål. Stort fokus på Minimum Viable Product, rask leveringstid og lave utviklingskostnader. Sigmund var også hovedansvarlig for onboarding og opplæring av mer enn 20 utviklere på teamet i løpet av perioden, flertallet av dem nyutdannede. Han utviklet onboardingsrutiner som gjorde at de aller fleste utviklere leverte produksjonsklar kode i løpet av første uka i prosjektet.
 
 
 ## Kurs og presentasjoner jeg har holdt
