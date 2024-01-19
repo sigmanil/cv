@@ -8,15 +8,15 @@ _Kompetent:_ C#, C++, C, Fortran, shellscripts
 _Kjenner til:_ PHP, Python
 
 ## Rammeverk og biblioteker
-_Spesialist:_ Ktor, Ktorm, JavaMelody, Zonky Embedded Postgres, 
-_Profesjonell:_ Jackson, Spring Boot, Log4j, Scalatra, 
-_Kompetent:_ Hibernate, Axis, Axis 2, JNI, JasperReports, Java Swing, React.js, Redux, OpenSAML, SLF4J, Spring, 
-_Kjenner til:_ Vue.js, 
+_Spesialist:_ Ktor, Ktorm, JavaMelody, Zonky Embedded Postgres, Ktor-OpenAPI-Generator, Flyway, 
+_Profesjonell:_ Jackson, Spring Boot, Log4j, Scalatra, threeten-extra, Joda Time
+_Kompetent:_ Hibernate, Axis, Axis 2, JNI, JasperReports, Java Swing, React.js, Redux, OpenSAML, SLF4J, Spring, Wicket, JQuery, c3p0, Dozer, FullCalendar.js, Commons Validator, Libphonenumber, Commons CSV, 
+_Kjenner til:_ Vue.js, WebDataRocks, SimDis HLA, Highcharts, SwiXML, 
 
 ## Dataformater og meldingsstandarder
 _Spesialist:_ JSON, XML, REST
-_Profesjonell:_ LDAP, SOAP, 
-_Kompetent:_ Hessian, SAML
+_Profesjonell:_ LDAP, SOAP, OpenAPI, Swagger, XSD, 
+_Kompetent:_ Hessian, SAML, XSLT, iCalendar, Kafka, 
 _Kjenner til:_ Protobuf, ActiveMQ, JMS
 
 ## Metodikk og design
@@ -59,7 +59,7 @@ _Kjenner til:_
 _Spesialist:_ 
 _Profesjonell:_ 
 _Kompetent:_ Statistikk, 
-_Kjenner til:_ 
+_Kjenner til:_ Matlab,
 
 ## Sikkerhet
 _Spesialist:_ 
@@ -70,31 +70,31 @@ _Kjenner til:_
 ## AWS
 _Spesialist:_ 
 _Profesjonell:_ Cloudwatch, RDS, Aurora
-_Kompetent:_  
-_Kjenner til:_ Fargate, EC2
+_Kompetent:_ ECR
+_Kjenner til:_ Fargate, EC2, EKS, 
 
-## Appservere og Operativsystemer
+## Appservere og operativsystemer
 _Spesialist:_ 
 _Profesjonell:_ Tomcat, Jetty, Windows, Linux
-_Kompetent:_ macOS, Glassfish, OC4J, SJSAS, 
-_Kjenner til:_
+_Kompetent:_ macOS, Glassfish, OC4J, SJSAS, WebLogic
+_Kjenner til:_ JCAPS
 
 ## Utviklingsverktøy
 _Spesialist:_ IntelliJ, DataGrip,  Notepad++, Webstorm, Gradle
 _Profesjonell:_ Eclipse, Aqua Data Studio, Rider, Maven, Git,
-_Kompetent:_ VS Code, SoapUI, Mailman, Subversion, CVS, 
+_Kompetent:_ VS Code, SoapUI, Mailman, Subversion, CVS, NPM, Webpack, 
 _Kjenner til:_ SBT
 
 ## DevOps-verktøy og annen drift
-_Spesialist:_ Active Directory, 
-_Profesjonell:_ Nexus, Docker
-_Kompetent:_ Github Actions, ArgoCD, Bamboo, Jenkins
-_Kjenner til:_ Terraform, Docker Swarm, Kubernetes, Nagios, Prometheus
+_Spesialist:_ 
+_Profesjonell:_ Active Directory, Nexus, Docker, ADFS, Keycloak, Kibana
+_Kompetent:_ Github Actions, ArgoCD, Bamboo, Jenkins, Grafana
+_Kjenner til:_ Terraform, Docker Swarm, Kubernetes, Nagios, Prometheus, VirtualBox, Micrometer, Openshift
 
 ## Prosjektverktøy
-_Spesialist:_ 
-_Profesjonell:_ Confluence, Jira, Github Issues, Github Pages
-_Kompetent:_  
+_Spesialist:_ Excel, Google Sheets, Word, Google Docs
+_Profesjonell:_ Confluence, Jira, Github Issues, Github Pages, Google Slides
+_Kompetent:_ Outlook, 
 _Kjenner til:_ 
 
 ## Offentlige APIer
