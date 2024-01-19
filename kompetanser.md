@@ -1,6 +1,8 @@
 # Kompetanseliste
 Egenevaluering av kompetanse for Sigmund M. Nilssen. Jeg er komfortabel med å jobbe selvstendig med alt i kategoriene "spesialist", "profesjonell" og "kompetent". Kategorien "kjenner til" indikerer ting jeg vil trenge noe tid eller støtte for å bli effektiv i, men hvor jeg ikke stiller på bar bakke.
 
+**Denne sida er ikke ferdig enda, og ikke komplett :-) Men om du har funnet den, så håper jeg du liker lister.**
+
 ## Programmeringsspråk
 _Spesialist:_ Kotlin, Java, SQL, HTML, 
 _Profesjonell:_ JavaScript, TypeScript, Scala
