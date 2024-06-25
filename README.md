@@ -7,8 +7,10 @@ _Mer enn 17 års erfaring med utvikling. Mer enn 10 års erfaring med personalle
 _Master i Informatikk i 2005, Universitetet i Oslo_ <br>
 
 ## Overordnet erfaring
- - **2007-Nå: Knowit Objectnet**, Seniorkonsulent, Gruppeleder, Ledende fagrekrutterer
-     - **2023-Nå: Tolletaten.** Prosjekter: Digitoll. Roller: Plasssjef og Seniorutvikler
+ - **2024-Nå: Twoday**, Lead consultant
+ - **2007-2024: Knowit Objectnet**, Seniorkonsulent, Gruppeleder, Ledende fagrekrutterer
+     - **2024: Bærum Kommune.** Prosjekter: Klimadashboard. Roller: Mentor for sommerjobbere
+     - **2023-2024: Tolletaten.** Prosjekter: Digitoll. Roller: Plass-sjef og Seniorutvikler
      - **2020-2023: Oslo Kommune Origo.** Prosjekter: Booking. Roller: Seniorkonsulent og Security Champion
      - **2011-2015, 2016-2020: KF / Kommuneforlaget.** Prosjekter: _15 produkter utviklet fra idéskisse til produksjonsklar løsning._ Roller: Kundekontakt, Prosjektleder, Teamleder, Løsningsarkitekt, Tech-lead og Utvikler (I løpet av perioden)
      - **2015-2016: Oslo Kommune ITAS.** Prosjekter: _ITAS Sikkerhetstaskforce._ Roller: Seniorutvikler og Teamleder for Task Force Sikkerhet
