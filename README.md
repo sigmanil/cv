@@ -60,6 +60,7 @@ Sigmund fungerte som tech-lead, teamleder, løsningsarkitekt og tidvis prosjektl
  - 2016: **Scala.js**, 30 minutters foredrag om bruk av Scala på web ved hjelp av Scala.js - ble holdt på Web-Summit, et internt fagarrangement i Knowit.
  - 2014: **Fem år med Scala i produksjon**, 1 time presentasjon av erfaringene med Scala i produksjon, basert på prosjektene hos Kommuneforlaget. Foredraget ble holdt på JavaZone.
  - 2013: **The Objectnet Way**, Foredrag om selskapskulturen i Objectnet og hva andre Knowit-selskaper kunne lære av den. Holdt på KDS (Knowit Developer Summit), en stor internkonferanse i Knowit-konsernet. Holdt sammen med Tobias Torrisen.
+ - 2012: **Google Sites**, Lyntale om bruk av Google Sites for opprettelse av nettsider, holdt på Knowits fagseminar.
 
 ## Kurs og sertifiseringer _tatt_
  - 2023: **Hvordan lede Unge**, Yong
