@@ -65,6 +65,7 @@ Sigmund fungerte som tech-lead, teamleder, løsningsarkitekt og tidvis prosjektl
  - 2012: **Google Sites**, Lyntale om bruk av Google Sites for opprettelse av nettsider, holdt på Knowits fagseminar.
 
 ## Kurs og sertifiseringer _tatt_
+ - 2024: **Advanced React**, Coursera/Meta
  - 2023: **Hvordan lede Unge**, Yong
  - 2023: **Anticorruption**, Knowit
  - 2022: **Sertifisering i Likestilling og Mangfold**, Knowit
