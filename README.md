@@ -6,6 +6,9 @@ _Mer enn 17 års erfaring med utvikling. Mer enn 10 års erfaring med personalle
 
 _Master i Informatikk i 2005, Universitetet i Oslo_ <br>
 
+## Sertifiseringer
+{% include badgeawsdeveloperassociate.html %}
+
 ## Overordnet erfaring
  - **2024-Nå: Twoday**, Lead consultant
  - **2007-2024: Knowit Objectnet**, Seniorkonsulent, Gruppeleder, Ledende fagrekrutterer
