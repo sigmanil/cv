@@ -6,9 +6,6 @@ _Mer enn 17 års erfaring med utvikling. Mer enn 10 års erfaring med personalle
 
 _Master i Informatikk i 2005, Universitetet i Oslo_ <br>
 
-## Sertifiseringer
-{% include badgeawsdeveloperassociate.html %}
-
 ## Overordnet erfaring
  - **2024-Nå: Twoday**, Lead consultant
  - **2007-2024: Knowit Objectnet**, Seniorkonsulent, Gruppeleder, Ledende fagrekrutterer
@@ -68,6 +65,8 @@ Sigmund fungerte som tech-lead, teamleder, løsningsarkitekt og tidvis prosjektl
  - 2012: **Google Sites**, Lyntale om bruk av Google Sites for opprettelse av nettsider, holdt på Knowits fagseminar.
 
 ## Kurs og sertifiseringer _tatt_
+{% include badgeawsdeveloperassociate.html %}
+ - 2024: **AWS Certified Developer - Associate**, Amazon Web Services Training and Certification
  - 2024: **Advanced React**, Coursera/Meta
  - 2023: **Hvordan lede Unge**, Yong
  - 2023: **Anticorruption**, Knowit
