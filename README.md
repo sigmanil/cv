@@ -66,6 +66,8 @@ Sigmund fungerte som tech-lead, teamleder, løsningsarkitekt og tidvis prosjektl
 
 ## Kurs og sertifiseringer _tatt_
 {% include badgeawsdeveloperassociate.html %}
+ - 2024: **Privacy/GDPR 2024**, Twoday/Nanolearning
+ - 2024: **Information Security Awareness 2023**, Twoday/Nanolearning
  - 2024: **AWS Certified Developer - Associate**, Amazon Web Services Training and Certification
  - 2024: **Advanced React**, Coursera/Meta
  - 2023: **Hvordan lede Unge**, Yong
