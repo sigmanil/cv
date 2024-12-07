@@ -8,6 +8,7 @@ _Master i Informatikk i 2005, Universitetet i Oslo_ <br>
 
 ## Overordnet erfaring
  - **2024-Nå: Twoday**, Lead consultant
+     - **2024-Nå: Vy Digital.** Prosjekter: Team Reise (Reisesøk og informasjon i app og på web). Roller: Tech-lead.
  - **2007-2024: Knowit Objectnet**, Seniorkonsulent, Gruppeleder, Ledende fagrekrutterer
      - **2024: Bærum Kommune.** Prosjekter: Klimadashboard. Roller: Mentor for sommerjobbere
      - **2023-2024: Tolletaten.** Prosjekter: Digitoll. Roller: Plass-sjef og Seniorutvikler
