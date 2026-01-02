@@ -2,7 +2,7 @@
 
 _Programvareutvikler og løsningsarkitekt bosatt i Oslo_
 
-_Mer enn 17 års erfaring med utvikling. Mer enn 10 års erfaring med personalledelse og rekruttering._
+_Erfaring med systemutvikling siden 2005. Erfaring med med personalledelse og rekruttering siden 2012._
 
 _Master i Informatikk i 2005, Universitetet i Oslo_ <br>
 
